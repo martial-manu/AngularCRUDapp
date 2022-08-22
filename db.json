@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Nsdhcbsd",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 623,
+      "comment": "jksadhbkashbcjhsdb",
+      "date": "2022-08-17T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
